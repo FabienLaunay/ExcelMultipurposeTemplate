@@ -1,2 +1,2 @@
 # ExcelMultipurposeTemplate
-A multipurpose template for Microsoft Excel
+A multipurpose template for Microsoft Excel.
